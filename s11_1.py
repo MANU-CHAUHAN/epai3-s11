@@ -100,12 +100,3 @@ class MyPolygon:
     def __repr__(self):
         """ repr for MyPolygon"""
         return f"(MyPolygon({self._vertx_count}, {self._radius}))"
-
-
-p = MyPolygon(12, 3)
-print(p.area)
-print(p.apothem)
-print(p.edge_count)
-print(p.edge_length)
-print(p.interior_angle)
-print(p.perimeter)
