@@ -5,6 +5,13 @@
 ![](https://miro.medium.com/max/2000/1*dWd3B7F8zvMPERg2LpNgaA.jpeg)
 
 
+----
+
+### Link for notebook with repo cloned and code usage:
+
+[Deepnote](https://deepnote.com/project/EPAI30ManuShared-lHtlJAM8Srqe0N5wrZgiWQ/%2Fs11.ipynb)
+
+----
 
 ### Few points to remember:
 
@@ -418,20 +425,11 @@ class Test():
 ----
 
 
-
 ## Tasks:
 
 1. To have a `Polygon` class with `properties` being loaded lazily 🚶🏻‍♂️
 2. To have a `PolygonSequence` class which can generate list of `Polygon` objects and expose an Iterator as well, `PolygonIterator` implemented and exposed via `__iter__` of PolygonSeq class
 3. To have relevant tests in test file
-
-----
-
-## Link for notebook:
-
-[Deepnote](https://deepnote.com/project/EPAI30ManuShared-lHtlJAM8Srqe0N5wrZgiWQ/%2Fs11.ipynb)
-
-
 ----
 
 ✌🏻
