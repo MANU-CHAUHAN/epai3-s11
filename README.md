@@ -425,10 +425,16 @@ class Test():
 2. To have a `PolygonSequence` class which can generate list of `Polygon` objects and expose an Iterator as well, `PolygonIterator` implemented and exposed via `__iter__` of PolygonSeq class
 3. To have relevant tests in test file
 
+----
+
+## Link for notebook:
+
+[Deepnote](https://deepnote.com/project/EPAI30ManuShared-lHtlJAM8Srqe0N5wrZgiWQ/%2Fs11.ipynb)
 
 
 ----
 
+✌🏻
 
 
 #### References:
