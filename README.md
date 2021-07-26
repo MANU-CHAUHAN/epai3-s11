@@ -67,7 +67,7 @@ Again:
 
 ----
 
-### Loop Gotchas: 🤨
+### Gotchas: 🤨
 
 1.
 
